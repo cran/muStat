@@ -31,10 +31,10 @@ Maintainer: Tingting Song \email{ttsong@gmail.com}
   \tabular{ll}{
     Package: \tab muStat\cr
     Type: \tab Package\cr
-    Version: \tab 1.3\cr
+    Version: \tab 1.3.1\cr
     Date: \tab 2007-11-22\cr
     URL: \tab \url{http://mustat.rockefeller.edu} \cr
-    License: \tab GPL version 2 or newer
+    License: \tab GPL (>= 2)
   }
 }
 
