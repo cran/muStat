@@ -51,7 +51,7 @@ function(
 
 # ----------------------------------------------------- *begin* program
 
-  wRank <- mu.rank
+  wRank <- mu.rank.nna
   Score <- NoOp
 
   if (is.null(score)) {                           # data already scored

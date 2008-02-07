@@ -16,8 +16,7 @@ Multivariate Data
   a one-way layout with only two groups, or a stratified McNemar/sign
   test using a notion adopted to genetic association studies (TDT).
   Generates u/mu-scores of univariate and multivariate data to be used 
-  with these tests.  Additional material 
-  and information is available on http://mustat.rockefeller.edu.
+  with these tests.
 }
 
 \section{Author}{
@@ -31,8 +30,8 @@ Maintainer: Tingting Song \email{ttsong@gmail.com}
   \tabular{ll}{
     Package: \tab muStat\cr
     Type: \tab Package\cr
-    Version: \tab 1.3.1\cr
-    Date: \tab 2007-11-22\cr
+    Version: \tab 1.5.0\cr
+    Date: \tab 2008-02-07\cr
     URL: \tab \url{http://mustat.rockefeller.edu} \cr
     License: \tab GPL (>= 2)
   }

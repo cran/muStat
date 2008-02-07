@@ -4,7 +4,8 @@
 \alias{mu.friedman.test}
 \alias{mu.kruskal.test}
 \alias{mu.wilcox.test}
-\encoding{latin1} 
+
+\encoding{latin1}
 
 \title{Prentice (Friedman/Wilcoxon/Kruskal) Rank Sum Test}
 
