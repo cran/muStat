@@ -170,7 +170,6 @@ SMN.pvalue <- function(pP,qP, pX=0,qX=0, pQ=0,qQ=0,
 \author{Knut M. Wittkowski \email{kmw@rockefeller.edu}}
 
 \seealso{
-  \code{\link[stats]{prentice.test}},    
   \code{\link[stats]{friedman.test}},
   \code{\link[stats]{binom.test}},
   \code{\link[stats]{chisq.test}},

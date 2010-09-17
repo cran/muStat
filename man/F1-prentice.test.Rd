@@ -27,6 +27,7 @@ mu.kruskal.test(y, groups, blocks, \dots )
 mu.friedman.test(y, groups, blocks, \dots )
 }
 
+
 \arguments{
 
   \item{y}{
@@ -68,7 +69,7 @@ mu.friedman.test(y, groups, blocks, \dots )
       \item \dots (to be continued) 
       } 
     }
-  \item{blkwght}{ 
+      \item{blkwght}{ 
     character object indicating the weights to apply to \code{blocks} 
     depending on the ratio between planned size (including \code{NA}s) 
     and observed size (excluding \code{NA}s). Options are
@@ -93,12 +94,12 @@ mu.friedman.test(y, groups, blocks, \dots )
     from the planned number of groups, if \code{>0}, the parameter 
     value is taken as the degrees of freedom. 
     }
-
-  \item{alternative} {
-    character string, one of \code{"greater"}, \code{"less"} or 
+  \item{alternative}{
+    character string, one of\code{"greater"}, \code{"less"} or 
     \code{"two.sided"}, indicating the specification of the alternative 
     hypothesis. For Wilcoxon test only.
-    }
+  }
+
   \item{mu}{
     a single number representing the value of the mean or difference 
     in means specified by the null hypothesis. 
